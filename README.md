@@ -1,1 +1,1 @@
-# gin-static
+# gin-static example
